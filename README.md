@@ -1,6 +1,7 @@
 # Cryptography
 
 – Blockchain Implementation
+
 This is a practical assignment that can be done by groups of two students. The purpose is to
 explore existing Blockchain technologies/tools and their applications, using freely available
 tools that can be found on the Internet, to construct a simple, working blockchain.
